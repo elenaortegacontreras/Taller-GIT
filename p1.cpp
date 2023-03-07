@@ -1,3 +1,3 @@
-rt pandas
+import pandas
 
 def holaa();
